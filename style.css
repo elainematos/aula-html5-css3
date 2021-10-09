@@ -1,0 +1,172 @@
+body {
+	background: #dfe3f1;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: arial,helvetica;
+}
+
+section {
+	margin-right: 200px;
+	margin-left: 200px;
+}
+a {
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+a:hover {
+	color:yellow;
+}
+nav {
+	
+	text-align: center;
+
+
+}
+ul {
+	background-color: #4b204b;
+	list-style: none;
+	padding: 20px;
+
+}
+li {
+	display: inline;
+	padding-right: 90px;
+
+	
+	
+}
+.titulo {
+	text-align: left;
+	font-family: helvetica;
+	font-size: 40px;
+	font-weight: bold;
+	color:#642764;
+	text-shadow: #666 2px 2px 4px;
+
+}
+header {
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+header h1 {
+	color: #642764;
+	font-size: 40px;
+	text-shadow: #000 2px 2px 3px;
+}
+h2 {
+	color: #642764;
+
+}
+
+#parceiros {
+	display: inline-block;
+}
+section h2 {
+	color: #642764;
+	font-weight: bold;
+	text-shadow: #fff 2px 3px 2px;
+}
+.cont1,.cont2, div {
+	display: inline-block;
+
+}
+.cont1 img {
+	display: inline-block;
+	margin-right: 300px;
+	text-align: center;
+	width: 55px;
+	height: 50px;
+	justinfy-content:center;
+	align-items:center;
+	margin-left: 90px;
+	
+}
+.cont2 img {
+	display: inline-block;	
+	text-align: center;
+	width: 40px;
+	height: 40px;
+	justinfy-content:center;
+	align-items:center;
+	margin-left: 40px;
+
+
+
+	
+}
+.cont1 a {
+	color: #642764; 
+
+
+}
+.cont2 a {
+	color: #642764; 
+	
+
+}
+.cont1 a:hover {
+	color: #946d69;
+}
+.cont2 a:hover {
+	color: #946d69;
+}
+footer {
+	color: #642764;
+	font-weight: bold;
+	font-family: helvetica;
+	text-align: center;
+	margin-top: 40px;
+
+
+}
+.cli1, .cli2, img {
+	width: 300px;
+	height: 200px;
+	display: inline-block;
+	margin-right: 20px;
+	aling-items:center;
+}
+.parc1 img {
+	width: 200px;
+	height: 150px;	
+	margin-right: 50px;
+	
+	
+
+}
+.parc2 img {
+	width: 300px;
+	height: 100px;
+	
+	
+	
+
+}
+.parc1 a:hover {
+	filter: drop-shadow(2px 3px 5px #939);
+
+}
+.parc2 a:hover {
+	filter: drop-shadow(2px 3px 5px #939);
+}
+
+.serv1, .serv2, img {
+	width: 300px;
+	height: 200px;
+	display: inline-block;
+	margin-right: 20px;
+	aling-items:center;
+}
+.tim1, .tim2, img {
+	width: 300px;
+	height: 200px;
+	display: inline-block;
+	margin-right: 20px;
+	aling-items:center;
+}
+
